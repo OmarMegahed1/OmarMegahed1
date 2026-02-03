@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hi there! I'm a Software Engineer passionate about crafting efficient and scalable software solutions. I love solving problems through code and continuously learning new technologies to improve my craft.<br><br>💡 Always looking for innovative ways to optimize and enhance software systems.<br>🚀 Enthusiastic about building applications that make a real-world impact.<br><br>Let's connect and build something awesome!<br><br>"As a man, I'm flesh and blood. I can be ignored. I can be destroyed. But as a symbol, as a symbol I can be incorruptible, I can be everlasting."
-
+Hi there! I'm a Software Engineer passionate about crafting efficient and scalable software solutions. I love solving problems through code and continuously learning new technologies to improve my craft.<br><br>💡 Always looking for innovative ways to optimize and enhance software systems.<br>🚀 Enthusiastic about building applications that make a real-world impact.<br><br>Let's connect and build something awesome!<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-megahed-658013198) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omarmoustafa209@gmail.com) 
